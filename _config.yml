@@ -1,0 +1,4 @@
+markdown: kramdown
+kramdown:
+  input: GFM        ← force le support des tableaux GFM
+theme: jekyll-theme-cayman
