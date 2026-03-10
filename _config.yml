@@ -1,4 +1,7 @@
+# Configuration Jekyll pour GitHub Pages
 markdown: kramdown
 kramdown:
-  input: GFM        ← force le support des tableaux GFM
+  input: GFM
 theme: jekyll-theme-cayman
+title: Oussama Wachofi — Portfolio
+description: Élève ingénieur en Sécurité et Qualité des Réseaux
